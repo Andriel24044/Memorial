@@ -25,7 +25,7 @@ Este repositório contém os exercícios desenvolvidos durante a disciplina de *
 │   └── helpers.py
 └── README.md
 ```
-## Tabela
+## Tabela de atividades
 
 | Tipo             | Título/Descrição                                                          | Pontos | Status | Link/Arquivo                        |
 |------------------|---------------------------------------------------------------------------|--------|--------|-------------------------------------|
