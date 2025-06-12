@@ -30,9 +30,9 @@ Este repositório contém os exercícios desenvolvidos durante a disciplina de *
 | Tipo             | Título/Descrição                                                          | Pontos | Status | Link/Arquivo                        |
 |------------------|---------------------------------------------------------------------------|--------|--------|-------------------------------------|
 | Monstrinho       | Grafo computacional e backpropagation (expressão L)                      | 5      |    ✔️    |                                     |
-| Monstrinho       | Classes Python: Elemento e Molécula                                       | 5      |   ✔️     |                                     |
+| Monstrinho       | Classes Python: Elemento e Molécula                                       | 5      |   ✔️     |[Atividade 3.2](https://github.com/Andriel24044/Memorial/blob/2a5192ef42d4e4c4c8b30cd316e5a03b6362ba24/Redes%20Neurais/Monstrinhos/3.2_3.4.ipynb)|
 | Monstrinho       | Herança de classes em conceito científico                                 | 5      |    ✔️    |                                     |
-| Monstrinho       | Classe com métodos dunder não usuais                                      | 5      |    ✔️    |                                     |
+| Monstrinho       | Classe com métodos dunder não usuais                                      | 5      |    ✔️    |[Atividade 3.4](https://github.com/Andriel24044/Memorial/blob/2a5192ef42d4e4c4c8b30cd316e5a03b6362ba24/Redes%20Neurais/Monstrinhos/3.2_3.4.ipynb)|
 | Monstrinho       | Três novas funções de ativação em rede neural em Python puro              | 5      |    ✔️    |                                     |
 | Monstrinho       | Curva de aprendizado (treino e validação)                                 | 5      |     🕒   |[No forno](https://www.pudim.com.br/)|
 | Monstrinho       | Comparação: busca aleatória, em grade e AG                                | 5      |   ✔️     |                                     |
