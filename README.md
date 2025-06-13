@@ -9,20 +9,11 @@ Este repositório contém os exercícios desenvolvidos durante a disciplina de *
 ```
 .
 ├── algoritmos_geneticos/
-│   ├── exercicio_1.py
-│   ├── exercicio_2.py
-│   └── ...
+│   ├── Monstrinhos
+│   ├── Feras Formidáveis
 ├── redes_neurais/
-│   ├── perceptron.py
-│   ├── mlp_treinamento.py
-│   └── ...
-├── relatorios/
-│   ├── relatorio_1.pdf
-│   └── ...
-├── datasets/
-│   └── exemplo.csv
-├── utils/
-│   └── helpers.py
+│   ├── Monstrinhos
+│   ├── Feras Formidáveis
 └── README.md
 ```
 ## Tabela de atividades
