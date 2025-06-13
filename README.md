@@ -8,13 +8,27 @@ Este repositório contém os exercícios desenvolvidos durante a disciplina de *
 
 ```
 .
+Memorial/
 ├── algoritmos_geneticos/
-│   ├── Monstrinhos
-│   ├── Feras Formidáveis
+│   ├── Monstrinhos/
+│       ├── 3.8                 
+│       ├── 3.9
+│       └── ...                 
+│   Feras_Formidaveis/
+│       ├── 4.10/               
+│       ├── 4.11/
+│       └── ...       
 ├── redes_neurais/
-│   ├── Monstrinhos
-│   ├── Feras Formidáveis
+│   ├── Monstrinhos/
+│       ├── 3.1                 
+│       ├── 3.2
+│       └── ...           
+│   ├── Feras_Formidaveis/
+│       ├── 4.2/                 
+│       ├── 4.3/
+│       └── ... 
 └── README.md
+
 ```
 ## Tabela de atividades
 
